@@ -1,0 +1,43 @@
+h1{
+    text-align: left;
+    color: rgb(139, 89, 255);
+    background-color: rgb(215, 221, 255);
+}
+hr{
+    color: rgb(255, 255, 255);
+}
+
+img{
+    border-style: solid;
+    border-style: rgb(83, 16, 199);
+    border-style: 5px;
+}
+
+div{
+    text-align: center;
+}
+
+.main-content{
+    text-align: left;
+}
+.menu{
+    text-align: left;
+}
+a:link{
+    color: rgb(215, 250, 217);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: rgb(134, 43, 226);
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active{
+    color: #359;
+}
